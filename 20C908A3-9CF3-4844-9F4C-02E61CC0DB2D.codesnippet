@@ -12,6 +12,8 @@
 	<string>- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     UITableViewCell *cell = [self.tableView cellForRowAtIndexPath:indexPath];
     
+    &lt;#statement#&gt;
+    
     return cell;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
