@@ -3,28 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>layoutSubviews</string>
+	<string>tintColorDidChange</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)layoutSubviews {
-    [super layoutSubviews];
+	<string>- (void)tintColorDidChange {
+    [super tintColorDidChange];
     
     &lt;#statement#&gt;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>04E27F6C-6C36-464F-A367-106B1038EA16</string>
+	<string>4C4234FE-A0AC-49FD-886F-BD51CB93BA14</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>-layoutSubviews</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>layoutSubviews</string>
+	<string>tintColorDidChange</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
