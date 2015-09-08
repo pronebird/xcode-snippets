@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLocalizedStringWithDefaultValue(&lt;#key#&gt;, nil, [NSBundle mainBundle], &lt;#default-translation#&gt;, @"");</string>
+	<string>NSLocalizedStringWithDefaultValue(&lt;#key#&gt;, &lt;#table#&gt;, [NSBundle mainBundle], &lt;#default-translation#&gt;, @"");</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7ABC2972-6162-4E6E-832E-71C36B352C16</string>
 	<key>IDECodeSnippetLanguage</key>
